@@ -1,0 +1,16 @@
+.navbar-brand > img{
+    width: 40px;
+}
+
+.navbar-brand > span{
+    font-size: 1.3em;
+    font-weight: 700;
+    color: #000;
+    vertical-align: bottom;
+}
+
+.nav-link{
+    color:  #000;
+    font-size: 1.1em;
+    font-weight: 700;
+}
